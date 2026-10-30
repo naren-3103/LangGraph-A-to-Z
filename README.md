@@ -31,7 +31,7 @@ To use another model, change `MODEL` in the config cell (Part 0). Small local mo
 
 ## Section guide (one line each)
 
-| # | Section | In one line |
+| # | Section | What happens here
 |---|---|---|
 | 0 | Setup | Install Ollama, pull the models, install the packages, and check that the LLM answers. |
 | 1 | LLM basics with `ChatOllama` | How to call a local model: `invoke`, messages, streaming, batch, prompts and simple chains. |
